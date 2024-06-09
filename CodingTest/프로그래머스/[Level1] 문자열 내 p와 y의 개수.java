@@ -5,7 +5,7 @@
  */
 
 package 프로그래머스;
-class Solution {
+class PYSum {
     boolean solution(String s) {
         int pCount = 0; // p의 개수
         int yCount = 0; // y의 개수
